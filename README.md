@@ -1,15 +1,15 @@
 
-# COME COME
+# Otaku Page
 
 ## 介绍
 
-[COME COME](https://comecome.cc) 是一款极简的网址导航工具，旨在为用户提供纯粹、简洁、高效的上网体验。
+[Otaku Page](https://otaku.ltd) 是一款极简的网址导航工具，旨在为用户提供纯粹、简洁、高效的上网体验。
 
 它充分保留了基础的网址导航功能，同时在设计上力求简洁，让用户能够以最快的速度找到所需的网站。
 
-![index](https://comecome.cc/img/index.png)
+![index](https://otaku.ltd/img/index.png)
 
-![settings](https://comecome.cc/img/settings.png)
+![settings](https://otaku.ltd/img/settings.png)
 
 ## 功能
 
@@ -24,9 +24,10 @@
 
 - 用户配置同步云端
 
-## 感谢
+## 鸣谢
 
 - 你的使用
+- @lkyu-ly @artisanbox
 - [Moon-Web-Start](https://github.com/jic999/moon-web-start)
 - [0x3](https://0x3.com)
 
