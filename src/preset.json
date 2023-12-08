@@ -25,8 +25,8 @@
 [{"id":1691511367428,"name":"微博","url":"https://weibo.com/","favicon":""},
 {"id":1691511378165,"name":"知乎","url":"https://www.zhihu.com/","favicon":""},
 {"id":1691511387328,"name":"贴吧","url":"https://tieba.baidu.com/","favicon":""},
-{"id":1691511404536,"name":"豆瓣","url":"https://www.douban.com/","favicon":""},{
-"id":1691511425429,"name":"简书","url":"https://www.jianshu.com/","favicon":""},
+{"id":1691511404536,"name":"豆瓣","url":"https://www.douban.com/","favicon":""},
+{"id":1691511425429,"name":"简书","url":"https://www.jianshu.com/","favicon":""},
 {"id":1691511442949,"name":"虎扑","url":"https://bbs.hupu.com/","favicon":""}]},
 {"id":1683444576461,"name":"资讯","siteList":
 [{"id":1683444716130,"name":"腾讯网","url":"https://www.qq.com/","favicon":""},
