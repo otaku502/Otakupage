@@ -17,7 +17,7 @@
 {"id":1683445511073,"name":"影视","siteList":
 [{"id":1683445552281,"name":"腾讯视频","url":"https://v.qq.com/","favicon":""},
 {"id":1683445577747,"name":"优酷","url":"https://www.youku.com/","favicon":""},
-"id":1683445625624,"name":"芒果TV","url":"https://www.mgtv.com/","favicon":""},
+{"id":1683445625624,"name":"芒果TV","url":"https://www.mgtv.com/","favicon":""},
 {"id":1683445638708,"name":"爱奇艺","url":"https://www.iqiyi.com/","favicon":""},
 {"id":1683445666116,"name":"乐视","url":"https://www.le.com/","favicon":""},
 {"id":1683445731544,"name":"西瓜视频","url":"https://www.ixigua.com/","favicon":""}]},
