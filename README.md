@@ -1,4 +1,3 @@
-
 # Otaku Page
 
 ## 介绍
