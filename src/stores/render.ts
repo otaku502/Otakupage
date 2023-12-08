@@ -1,14 +1,14 @@
-import { getRandomComplexNumber } from '@/utils'
+import { getRandomComplexNumber } from '@/utils';
 
 export const useRenderStore = defineStore('render', () => {
-  const siteGroupListKey = ref(getRandomComplexNumber())
+	const siteGroupListKey = ref(getRandomComplexNumber());
 
-  function refreshSiteGroupList() {
-    siteGroupListKey.value = getRandomComplexNumber()
-  }
+	function refreshSiteGroupList() {
+		siteGroupListKey.value = getRandomComplexNumber();
+	}
 
-  return {
-    siteGroupListKey,
-    refreshSiteGroupList,
-  }
-})
+	return {
+		siteGroupListKey,
+		refreshSiteGroupList,
+	};
+});

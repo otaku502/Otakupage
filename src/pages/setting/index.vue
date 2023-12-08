@@ -1,15 +1,13 @@
 <script setup lang="ts">
-import HomePage from '@/pages/home/index.vue'
+import HomePage from '@/pages/home/index.vue';
 
 defineOptions({
-  name: 'SettingPage',
-})
+	name: 'SettingPage',
+});
 </script>
 
 <template>
-  <HomePage />
+	<HomePage />
 </template>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

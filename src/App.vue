@@ -1,11 +1,11 @@
 <script setup>
-import { RouterView } from 'vue-router'
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
-  <AppProvider>
-    <AppContainer>
-      <RouterView />
-    </AppContainer>
-  </AppProvider>
+	<AppProvider>
+		<AppContainer>
+			<RouterView />
+		</AppContainer>
+	</AppProvider>
 </template>

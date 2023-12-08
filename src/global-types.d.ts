@@ -1,20 +1,24 @@
-import { LoadingBarProviderInst, DialogProviderInst, MessageProviderInst, NotificationProviderInst } from 'naive-ui';
-import { HTMLAttributes } from 'vue'
+import {
+	DialogProviderInst,
+	LoadingBarProviderInst,
+	MessageProviderInst,
+	NotificationProviderInst,
+} from 'naive-ui';
+import 'vue';
 
-
-export {}
+export { };
 
 declare module 'vue' {
-  interface HTMLAttributes {
-    [key: string]: unknown
-  }
+	interface HTMLAttributes {
+		[key: string]: unknown;
+	}
 }
 
 declare global {
-  interface Window {
-    $loadingBar: LoadingBarProviderInst
-    $dialog: DialogProviderInst
-    $message: MessageProviderInst
-    $notification: NotificationProviderInst
-  }
+	interface Window {
+		$loadingBar: LoadingBarProviderInst;
+		$dialog: DialogProviderInst;
+		$message: MessageProviderInst;
+		$notification: NotificationProviderInst;
+	}
 }
