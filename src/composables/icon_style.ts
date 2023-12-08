@@ -1,11 +1,13 @@
-import type { StyleValue } from 'vue'
-import type { IconStyle } from '@/types'
+import type { IconStyle } from '@/types';
+import type { StyleValue } from 'vue';
 
 export function useIconStyle() {
-  const settingStore = useSettingStore()
-  const iconStyle = computed(() => (settingStore.getSettingItem('iconStyle').value as IconStyle).style as StyleValue)
+	const settingStore = useSettingStore();
+	const iconStyle = computed(
+		() => (settingStore.getSettingItem('iconStyle').value as IconStyle).style as StyleValue
+	);
 
-  return {
-    iconStyle,
-  }
+	return {
+		iconStyle,
+	};
 }
