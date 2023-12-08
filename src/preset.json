@@ -1,6 +1,6 @@
 {"data":
 [{"id":1682952453886,"name":"日常","groupList":
-{"id":1683445778020,"name":"工具","siteList":
+[{"id":1683445778020,"name":"工具","siteList":
 [{"id":1683445789571,"name":"快麦","url":"https://erpb.superboss.cc/login.html","favicon":"","bgColor":""},
 {"id":1683445808052,"name":"抠图","url":"https://www.tukeli.net/","favicon":"","bgColor":""},
 {"id":1683445828852,"name":"alist","url":"http://.117.62.152:5244","favicon":"","bgColor":"#2320c4"},
@@ -21,7 +21,7 @@
 {"id":1683445638708,"name":"爱奇艺","url":"https://www.iqiyi.com/","favicon":""},
 {"id":1683445666116,"name":"乐视","url":"https://www.le.com/","favicon":""},
 {"id":1683445731544,"name":"西瓜视频","url":"https://www.ixigua.com/","favicon":""}]},
-[{"id":1691511355817,"name":"社交","siteList":
+{"id":1691511355817,"name":"社交","siteList":
 [{"id":1691511367428,"name":"微博","url":"https://weibo.com/","favicon":""},
 {"id":1691511378165,"name":"知乎","url":"https://www.zhihu.com/","favicon":""},
 {"id":1691511387328,"name":"贴吧","url":"https://tieba.baidu.com/","favicon":""},
