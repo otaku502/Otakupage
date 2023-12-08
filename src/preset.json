@@ -6,7 +6,7 @@
 {"id":1683445828852,"name":"alist","url":"http://.117.62.152:5244","favicon":"","bgColor":"#2320c4"},
 {"id":1683445842722,"name":"聚水潭","url":"https://sc.scm121.com/manage/goods","favicon":"","bgColor":"#623070"},
 {"id":1683445859621,"name":"工具导航","url":"https://www.jspoo.com/","favicon":"","bgColor":""},
-{"id":1683445911490,"name":"网页时间","url":"http://sj.otaku.ink/","favicon":"","bgColor":"#da5610"}]}]},
+{"id":1683445911490,"name":"网页时间","url":"http://sj.otaku.ink/","favicon":"","bgColor":"#da5610"}]},
 {"id":1683444783560,"name":"购物","siteList":
 [{"id":1683444814662,"name":"京东","url":"https://jd.com/","favicon":""},
 {"id":1683444838999,"name":"淘宝","url":"https://www.taobao.com/","favicon":""},
@@ -34,7 +34,7 @@
 {"id":1683444595590,"name":"今日头条","url":"https://www.toutiao.com/","favicon":""},
 {"id":1683444617455,"name":"环球网","url":"https://www.huanqiu.com/","favicon":""},
 {"id":1683444693580,"name":"搜狐网","url":"https://www.sohu.com/","favicon":""},
-{"id":1683444632615,"name":"虎嗅网","url":"https://www.huxiu.com/","favicon":""}]},
+{"id":1683444632615,"name":"虎嗅网","url":"https://www.huxiu.com/","favicon":""}]}]},
 {"id":1683446922689,"name":"开发","groupList":
 [{"id":1683458769247,"name":"文档","siteList":
 [{"id":1683458778330,"name":"MDN","url":"https://developer.mozilla.org/","favicon":""},
@@ -107,4 +107,4 @@
 {"id":318,"name":"WebGradients","url":"https://webgradients.com/","favicon":""},
 {"id":319,"name":"Colllor","url":"http://colllor.com/","favicon":""},
 {"id":320,"name":"ColourCode","url":"https://www.toptal.com/designers/colourcode","favicon":""}]}]}],
-"settings":{"theme":"MoonWhite","search":"Bing","iconStyle":"Plain","siteStyle":"auto"}}
+{"settings":{"theme":"MoonWhite","search":"Bing","iconStyle":"Plain","siteStyle":"auto"}}
