@@ -6,9 +6,9 @@
 
 它充分保留了基础的网址导航功能，同时在设计上力求简洁，让用户能够以最快的速度找到所需的网站。
 
-![index](https://comecome.cc/img/index.png)
+![index](https://raw.githubusercontent.com/hellojuantu/comecome/refs/heads/main/public/img/index.png?raw=true)
 
-![settings](https://comecome.cc/img/settings.png)
+![settings](https://github.com/hellojuantu/comecome/blob/main/public/img/settings.png?raw=true)
 
 ## 功能
 - 个性主题切换（月白、初春、瀚海、大漠）
